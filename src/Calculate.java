@@ -6,7 +6,7 @@ public class Calculate {
         int second =Integer.valueOf(args[1]);
         int sum= first+ second;
         System.out.println(sum);
-
+        System.out.println(sum);
 
     }
 }
